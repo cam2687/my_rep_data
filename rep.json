@@ -1,0 +1,49 @@
+"officials": [
+    {
+      "name": "Donald J. Trump",
+      "address": "1600 Pennsylvania Avenue Northwest Washington,DC 20500",
+      "party": "Republican Party",
+      "phones": "(202) 456-1111",
+      "urls": "https://www.whitehouse.gov/"
+      "photoUrl" : "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/PE%20Color.jpg"
+    },
+    {
+      "name": "Mike Pence",
+      "address": "1600 Pennsylvania Avenue Northwest Washington,DC 20500",
+      "party": "Republican Party",
+      "phones": "(202) 456-1111",
+      "urls": "https://www.whitehouse.gov/",
+      "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/VPE%20Color.jpg",
+    },
+    {
+      "name": "Mark R. Warner",
+      "address": "703 Hart Senate Office Building Washington,DC 20510",
+      "party": "Democratic Party",
+      "phones": "(202) 224-2023",
+      "urls": "https://warner.senate.gov/",
+      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/W/W000805.jpg",
+    },
+    {
+      "name": "Tim Kaine",
+      "address": "231 Russell Senate Office Building Washington, DC 20510",
+      "party": "Democratic Party",
+      "phones": "(202) 224-4024",
+      "urls": "https://kaine.senate.gov/",
+      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
+    },
+    {
+      "name": "Don Beyer",
+      "address": "1119 Longworth House Office Building Washington, DC 20515",
+      "party": "Democratic Party",
+      "phones": "(202) 225-4376",
+      "urls": "https://beyer.house.gov/",
+      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/B/B001292.jpg",
+    },
+    {
+      "name": "Justin E. Fairfax",
+      "party": "Democratic Party",
+      "phones": "(804) 786-2078",
+      "urls": "https://www.ltgov.virginia.gov/",
+      "emails": "ltgov@ltgov.virginia.gov",
+    }
+  ]

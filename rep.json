@@ -48,11 +48,13 @@
     },
     {
       "name": "Justin E. Fairfax",
+      "address" : "102 Governor Street Richmond, VA 23219",
       "role" : "Lieutenant Governor of Virginia",
       "party": "Democratic Party",
       "phones": "(804) 786-2078",
       "urls": "https://www.ltgov.virginia.gov/",
-      "emails": "ltgov@ltgov.virginia.gov",
+      "photoUrl": "http://en.wikipedia.org/wiki/Justin_Fairfax"
+      
     }
   ],
  "status": "OK"

@@ -1,3 +1,5 @@
+{
+
 "officials": [
     {
       "name": "Donald J. Trump",
@@ -46,4 +48,6 @@
       "urls": "https://www.ltgov.virginia.gov/",
       "emails": "ltgov@ltgov.virginia.gov",
     }
-  ]
+  ],
+ "status": "OK"
+}

@@ -1,5 +1,4 @@
 {
-
 "officials": [
     {
       "name": "Donald J. Trump",
@@ -17,7 +16,7 @@
       "party": "Republican Party",
       "phones": "(202) 456-1111",
       "urls": "https://www.whitehouse.gov/",
-      "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/VPE%20Color.jpg",
+      "photoUrl": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/45/VPE%20Color.jpg"
     },
     {
       "name": "Mark R. Warner",
@@ -26,7 +25,7 @@
       "party": "Democratic Party",
       "phones": "(202) 224-2023",
       "urls": "https://warner.senate.gov/",
-      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/W/W000805.jpg",
+      "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000805.jpg"
     },
     {
       "name": "Tim Kaine",
@@ -35,7 +34,7 @@
       "party": "Democratic Party",
       "phones": "(202) 224-4024",
       "urls": "https://kaine.senate.gov/",
-      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
+      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/K/K000384.jpg"
     },
     {
       "name": "Don Beyer",
@@ -44,7 +43,7 @@
       "party": "Democratic Party",
       "phones": "(202) 225-4376",
       "urls": "https://beyer.house.gov/",
-      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/B/B001292.jpg",
+      "photoUrl": "http://bioguide.congress.gov/bioguide/photo/B/B001292.jpg"
     },
     {
       "name": "Justin E. Fairfax",
@@ -54,7 +53,6 @@
       "phones": "(804) 786-2078",
       "urls": "https://www.ltgov.virginia.gov/",
       "photoUrl": "http://en.wikipedia.org/wiki/Justin_Fairfax"
-      
     }
   ],
  "status": "OK"
